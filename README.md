@@ -1,6 +1,15 @@
 # open-source-project-example
 
 
+
+Nólëbase https://github.com/LittleSound/nolebase
+
+小牛肉『CS-Wiki』 https://github.com/Veal98/cs-wiki
+
+Java 全栈知识体系 https://www.pdai.tech/ 
+
+CyC CS-Notes https://github.com/CyC2018/CS-Notes
+
 后端架构师路线 https://github.com/xingshaocheng/architect-awesome
 
 AWS软件开发工程师路线 https://github.com/jwasham/coding-interview-university
